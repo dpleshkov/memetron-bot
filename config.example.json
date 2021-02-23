@@ -1,0 +1,6 @@
+{
+  "token": "your bot token",
+  "subreddits": {
+    "dankmemes": ["channel id 1", "channel id 2"]
+  }
+}

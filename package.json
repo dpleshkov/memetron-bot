@@ -1,0 +1,17 @@
+{
+  "name": "memetron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "axios": "^0.21.0"
+  }
+}
